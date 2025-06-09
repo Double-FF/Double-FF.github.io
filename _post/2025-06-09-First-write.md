@@ -1,6 +1,6 @@
 ---
 title: Simpe Web Shell
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2025-06-09 15:20:00 +09:00
 categories: [모의해킹]
 tags: [WEB]
 ---
